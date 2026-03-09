@@ -17,17 +17,19 @@ Implement and compare foundational architectures for text generation, from simpl
 
 **Topics:**
 - Recurrent Neural Networks (Elman cells, BPTT)
+- Multi-layer RNN architectures
 - Transformer architecture (attention, causal masking, positional encoding)
 - Computational efficiency analysis (FLOPs, parallelization)
 - Real-world tokenization (SentencePiece, BPE)
 
-**Point Breakdown (60 points + 10 extra credit):**
+**Point Breakdown (55 points + 6 extra credit):**
 
 | Component | Coding | Questions/Analysis | Extra Credit |
 |-----------|--------|-------------------|--------------|
-| **RNN Implementation** | 10 pts | 10 pts | +5 pts (Multi-layer) |
-| **Transformer Implementation** | 10 pts | 15 pts | — |
-| **Subword Tokenization** | 9 pts | 6 pts | +5 pts (Transformer + subword) |
+| **RNN Implementation** | 10 pts | 7 pts | — |
+| **Multi-Layer RNN** | 5 pts | — | — |
+| **Transformer Implementation** | 10 pts | 12 pts | — |
+| **Subword Tokenization** | 7 pts | 4 pts | +6 pts (Transformer + subword) |
 
 ---
 
